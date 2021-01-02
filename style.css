@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+}
+input{
+    margin: 10px;
+}
+#b2{
+    display: none;
+}
